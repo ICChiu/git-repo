@@ -30,10 +30,11 @@
 - remote add -> **link a local repo to the git repo remotely**
 - remote -v -> **list remote repo from git**
 - git branch-> **list all the branches and show current branch with \***
-- git checkout -b "name_of_the_branch" -> **create a feature/hot branche and switch to it**
+- git checkout -b "name_of_the_branch" -> **create a feature/hot branch and switch to it**
+- git branch -d "name_of_the_branch" -> **delete a feature/hot branch**
 - git checkout "name_of_the_branch" -> **switch to the branch**
-- git merge -> **merge different branches**
 - git diff "name_of_the_branch" -> **show differences between branches**
+- git merge -> **merge different branches**
 
 ## Github Workflow
 
