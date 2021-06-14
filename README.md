@@ -35,6 +35,12 @@
 - git checkout "name_of_the_branch" -> **switch to the branch**
 - git diff "name_of_the_branch" -> **show differences between branches**
 - git merge -> **merge different branches**
+- git commit -am "messages" -> **commit the files and leave messages in the same command**
+- git reset -> **undo/unstaged the changes**
+- git reset HEAD~1 -> **reset the last git commit**
+- git log -> **read the log that we had commit**
+- git reset commit_id -> **undo/unstaged the changes back to the point we commit (unstaged those files)**
+- git reset --hard commit_id -> **switch back to the point we commit and remove all other commits afterward**
 
 ## Github Workflow
 
