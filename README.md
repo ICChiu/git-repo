@@ -26,3 +26,14 @@
 - commit -> **Save your files in Git**
 - push -> **Upload Git commits to a remote repo, like Github**
 - pull -> **Download changes from remote repo to your local machine, the opposite of push**
+- init -> **initialize a local folder to become a git repository**
+- remote add -> **link a local repo to the git repo remotely**
+- remote -v -> **list remote repo from git**
+
+## Github Workflow
+
+- Write Code -> Commit Changes -> Make a Pull Request
+
+## Local Git Workflow
+
+- Write Code -> Stage Changes (git add) -> Commit Changes (git commit) -> Push Changes (git push) -> Make a Pull Request
